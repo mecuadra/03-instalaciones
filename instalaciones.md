@@ -2,5 +2,13 @@
 1. Seguir los siguientes pasos:
 
 ´´´
-    npm install
+    yarn  update
 ´´´
+
+2. Ejecutar el comando
+
+´´´
+    npm  start
+´´´
+
+
